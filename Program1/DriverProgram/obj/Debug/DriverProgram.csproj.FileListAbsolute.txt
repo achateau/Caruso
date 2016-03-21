@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\_MyStuff\_test\Program1\DriverProgram\obj\Debug\DriverProgram.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\_MyStuff\_test\Program1\DriverProgram\bin\Debug\DriverProgram.dll
+C:\Users\Administrator\Documents\_MyStuff\_test\Program1\DriverProgram\bin\Debug\DriverProgram.pdb
+C:\Users\Administrator\Documents\_MyStuff\_test\Program1\DriverProgram\obj\Debug\DriverProgram.dll
+C:\Users\Administrator\Documents\_MyStuff\_test\Program1\DriverProgram\obj\Debug\DriverProgram.pdb
+C:\Users\Administrator\Documents\_MyStuff\_test\Program1\DriverProgram\bin\Debug\nunit.framework.dll
+C:\Users\Administrator\Documents\_MyStuff\_test\Program1\DriverProgram\bin\Debug\nunit.framework.xml
